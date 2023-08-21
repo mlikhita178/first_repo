@@ -2,7 +2,7 @@ git init -> set up a local git first_repo
 
 git clone https://github.com/mlikhita178/first_repo.git first_repo -> clone a repo, will get a folder
 
-cd first_repo -> after cloning, we have to go into the first_repo folder for git commands to work
+cd first_repo -> after cloning, we have to go into the first_repo folder in order to execute git commands.
 
 git branch sub_branch_1 -> to create a new branch apart from main, main should never be used directly
 
