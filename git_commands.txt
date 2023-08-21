@@ -1,1 +1,15 @@
-git clone https://github.com/mlikhita178/first_repo.git first_repo
+git init -> set up a local git first_repo
+
+git clone https://github.com/mlikhita178/first_repo.git first_repo -> clone a repo, will get a folder
+
+cd first_repo -> after cloning, we have to go into the first_repo folder for git commands to work
+
+git branch sub_branch_1 -> to create a new branch apart from main, main should never be used directly
+
+upload files, do changes and all
+
+git add <file_path> or git add * -> stage the changes in our (local) system
+
+git commit -m "<commit message>" -> to commit/save into out (local) system. 
+Still these changes do not reflect in the remote / actual git repo online
+
