@@ -15,7 +15,7 @@ Still these changes do not reflect in the remote / actual git repo online
 
 Should generate a access token in order to push changes into the remote repo
 
-git puch origin sub_branch_1 -> to push this local branch into remote / online git repo (denoted by default as origin)
+git push origin sub_branch_1 -> to push this local branch into remote / online git repo (denoted by default as origin)
 
 git pull origin sub_branch_1 -> to pull a branch from remote repo(denoted by default as origin)
 
