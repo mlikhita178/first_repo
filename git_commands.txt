@@ -13,7 +13,7 @@ git add <file_path> or git add * -> stage the changes in our (local) system
 git commit -m "<commit message>" -> to commit/save into out (local) system. 
 Still these changes do not reflect in the remote / actual git repo online
 
-Should generate a access token in order to push changes into the remote repo
+Should generate an access token in order to push changes into the remote repo
 
 git push origin sub_branch_1 -> to push this local branch into remote / online git repo (denoted by default as origin)
 
